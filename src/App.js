@@ -7,7 +7,7 @@ import {CommonStyles} from "./styles";
 
 const App = () => {
     const [activeTab, setActiveTab] = useState(0);
-
+//
     return (
         <CommonStyles>
             <Header />
